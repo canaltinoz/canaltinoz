@@ -1,7 +1,7 @@
-
-
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">Full Stack Developer Intern from Turkey</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=canaltinoz&label=Profile%20views&color=0e75b6&style=flat" alt="canaltinoz" /> </p>
 
 - 📫 How to reach me **canaltinoz0@gmail.com**
 
